@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# Tic tac toe game
+Tic Tac Toe Game with Vue JS running on Vite and styled in Tailwind CSS using single file component methods with the composition API.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Installation
+1. Clone the repository
 
-## Recommended IDE Setup
+2. Change to the directory was created by the clone
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+3. Run the app:
+```bash
+npm run dev
+```
+
+## Usage
+The game is available through `http://localhost:3000`.
